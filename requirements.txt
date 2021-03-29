@@ -40,7 +40,7 @@ pyasn1==0.2.3
 pyasn1-modules==0.0.9
 pycups==1.9.72
 pyenchant==1.6.8
-Pygments==2.2.0
+Pygments==2.7.4
 pygpgme==0.3
 pyinotify==0.9.6
 pyparsing==2.2.0
